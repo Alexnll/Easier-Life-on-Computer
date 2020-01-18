@@ -75,6 +75,10 @@
 7. Ctrl + L: select this line
 8. Ctrl + G: jump to certain line
 9. F12: jump to function
+10. Ctrl + x: clear one whole line
+11. ctor: create a constructor in C#
+12. prop: create a property in C#
+13. Ctrl + k + 0/j: close/open all folds
 
 ##### html:
 1. ! + tab: fastly construct html template
